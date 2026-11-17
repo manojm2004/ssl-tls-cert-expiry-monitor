@@ -1,2 +1,3 @@
-# ssl-tls-cert-expiry-monitor
-Automated SSL/TLS certificate monitoring script alerting NOC engineers prior to certificate expiration on web gateways.
+# 🔒 SSL/TLS Certificate Expiration & Health Monitor
+
+Scans domain endpoints, inspects SSL certificate validity, and generates early expiration alerts (30/15/7 days).
